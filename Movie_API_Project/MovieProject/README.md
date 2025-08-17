@@ -49,5 +49,3 @@ Enter a movie name in the search form and click the search button.
 
 The search results will be displayed as cards, each containing the movie's image, title, and summary.
 
-You can check this on Netlify : https://inspiring-travesseiro-dcba99.netlify.app/
-
