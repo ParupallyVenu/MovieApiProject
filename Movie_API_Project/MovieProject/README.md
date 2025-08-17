@@ -1,10 +1,3 @@
-# FasalInternProject
-This Project is for my Fasal Intern.
-
-
-# Fasal Intern Project
-
-
 
 ## Project Structure
 
@@ -18,34 +11,6 @@ This project is organized into three main files:
 
 
 - **main.js**: JavaScript file containing the application logic. It handles user authentication, API requests, and dynamic content generation.
-
-
-
-
-## How to Run the Project
-
-To run the project locally, follow these steps:
-
-1. **Clone the Repository**: Use Git to clone the project repository to your local machine.
-   ```bash
-   git clone https://github.com/KovvuruDhanush/FasalInternProject.git
-   cd FasalInternProject
-Open index.html: Open the index.html file in your preferred web browser to launch the application.
-
-
-
-
-Static Login Credentials
-To access the application, you'll need to use the following static credentials:
-
-- **Username: user**
-- **Password: password**
-
-
-These credentials are provided for demonstration purposes to showcase the login functionality.
-
-
-
 
 
 
